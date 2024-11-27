@@ -1,6 +1,6 @@
 {
 	"Name": "Pacific League",
-	"Version": 1732677186,
+	"Version": 1732740793,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2499,8 +2499,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": []
 		},
