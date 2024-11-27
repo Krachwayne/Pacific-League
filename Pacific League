@@ -1,6 +1,6 @@
 {
 	"Name": "Pacific League",
-	"Version": 1732672416,
+	"Version": 1732677186,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2141,7 +2141,8 @@
 				"77",
 				"89",
 				"96",
-				"121"
+				"121",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
